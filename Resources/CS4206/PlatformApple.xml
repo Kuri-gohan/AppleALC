@@ -5552,20 +5552,6 @@
 							</dict>
 						</array>
 					</array>
-					<array>
-						<array>
-							<dict>
-								<key>DetectDelegate</key>
-								<integer>13</integer>
-								<key>NodeID</key>
-								<integer>16</integer>
-							</dict>
-							<dict>
-								<key>NodeID</key>
-								<integer>8</integer>
-							</dict>
-						</array>
-					</array>
 				</array>
 			</array>
 			<key>PathMapID</key>

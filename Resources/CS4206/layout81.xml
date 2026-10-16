@@ -1721,13 +1721,10 @@
 			<array>
 				<string>Headphone</string>
 				<string>IntSpeaker</string>
-				<string>SPDIFOut</string>
 			</array>
 			<key>PathMapID</key>
 			<integer>44</integer>
 			<key>SPDIFIn</key>
-			<dict/>
-			<key>SPDIFOut</key>
 			<dict/>
 		</dict>
 	</array>
